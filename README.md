@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leopold-weidner
-- 🔬 I’m interested in analytical chemistry and computational data processing
-- 🌱 I’m currently strengthening my keras skills
-- 🤝 I’m looking to collaborate on innovative strategies for foodomics data processing
+- 🔬 I’m interested in analytical chemistry and advanced data analytics
+- 🌱 I’m currently strengthening my skills in apache spark
 - 📫 How to reach me: leopold.weidner@tum.de
 
 <!---
